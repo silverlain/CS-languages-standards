@@ -1,1 +1,1 @@
-# CS-languages-standards
+# IT-Languages-Standards
