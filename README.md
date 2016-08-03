@@ -1,1 +1,1 @@
-# programming-languages
+# CS-languages-standards
